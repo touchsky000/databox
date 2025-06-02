@@ -3,7 +3,6 @@
 
 # Databox
 > Simple web-based application created to show statistics of COVID-19 from every contries.
-> Live demo [_here_](https://nomenklatur.github.io/javascript-databox/).
 
 ## Technologies Used
 - HTML 5
@@ -12,5 +11,3 @@
 - Webpack
 - Axios
 
-## Contact
-Created by [Dimas Eka Putra](https://www.linkedin.com/in/masdimasekaputra/) - feel free to contact me!
